@@ -1,0 +1,19 @@
+{
+    "platforms" : [
+        "manylinux1_x86_64",
+        "win_amd64"
+    ],
+    "python_versions" : [
+        "36",
+        "37",
+        "38"
+    ],
+    "packages" : [
+        "pandas",
+        "SQLAlchemy",
+        "seaborn",
+        "requests",
+        "Zope"
+    ]
+}
+
